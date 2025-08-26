@@ -1,2 +1,3 @@
 echo "hello"
 pwd
+ping 0.0.0.0
